@@ -1,0 +1,8 @@
+job_id,title,company,location,province,employment_type,posted_date,salary_min,salary_max,skills
+J001,junior data analyst,Insight Labs,johannesburg,gauteng,full time,2026-09-01,18000,25000,"SQL, Python, Excel"
+J002,data engineer,Cloud Systems,cape town,western cape,full time,2026-09-02,30000,45000,"Python, SQL, Airflow"
+J003,bi developer,Data Works,durban,kwazulu-natal,contract,2026-09-03,25000,35000,"SQL, Power BI, Excel"
+J004,data intern,Green Byte,pretoria,gauteng,internship,2026-09-04,,,"Python, SQL, Git"
+J005,analytics engineer,Metric Hub,johannesburg,gauteng,full time,2026-09-05,35000,50000,"SQL, dbt, Python"
+J006,data engineer,Example Corp,remote,gauteng,full time,2026-09-31,28000,42000,"Python, SQL"
+J002,duplicate record,Cloud Systems,cape town,western cape,full time,2026-09-06,30000,45000,"Python, SQL"
